@@ -1,6 +1,10 @@
 html {
   font-size: 62.5%; }
 
+h1 {
+  margin: 0;
+  padding: 0; }
+
 header {
   background: #eaf2f4; }
   header #header_in {
